@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "es6",              
+    /* Modules */
+    "module": "commonjs",                    
+    "outDir": "./dist",                      
+    "esModuleInterop": true,                 
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,       
+    "skipLibCheck": true,
+    /* Importante para trabalhar com Decorator (@)*/
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+  }
+}
